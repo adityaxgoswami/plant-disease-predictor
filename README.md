@@ -2,7 +2,7 @@
 
 A web application built with **Streamlit** that uses a trained **Deep Learning model (TensorFlow/Keras)** to classify plant leaf diseases from uploaded images.  
 
-*Website* :-
+*Website* :-  [https://plant-disease-predictor-g8ges5yxiprwqpr96h6pya.streamlit.app/](https://plant-disease-predictor-g8ges5yxiprwqpr96h6pya.streamlit.app/)
 *Dataset* :- [https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
 
 ---
